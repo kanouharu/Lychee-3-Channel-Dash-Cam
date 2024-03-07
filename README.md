@@ -79,7 +79,7 @@
 
  * While I kept learning about audio and image encoding to a minimum because this is really just for amusement and reinforcing skills, I was made superficially aware of different algorithms used in preparing jpegs. The different options were primarily used due to their impact on file size as I required byte-level precision for file sizes. Thank you GIMP image editor! 
 
-* I wonder if this in any way prepared me for playing Binary Golf, which I’d seen a lot of hype about in the nerdiest of nerd circles. Trying different manipulations to hit an exact size feels analogous to playing golf…Though, arguably the only polyglot-esque files would be the erroneous binwalk and ghidra extractions. In any case, it was fun.
+* I wonder if this in any way prepared me for playing [Binary Golf](https://github.com/binarygolf/bggp), which I’d seen a lot of hype about in the nerdiest of nerd circles. Trying different manipulations to hit an exact size feels analogous to playing golf…Though, arguably the only polyglot-esque files would be the erroneous binwalk and ghidra extractions. In any case, it was fun.
 
 * All that’s left is:
 	- modifying the firmware image, flashing it
